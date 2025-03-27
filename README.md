@@ -24,7 +24,7 @@ I'm passionate about cybersecurity, love to learn new things, and take on comple
 [twitter]: https://twitter.com/___________
 [youtube]: https://www.youtube.com/c/___________
 [instagram]: https://www.instagram.com/___________
-[linkedin]: https://linkedin.com/in/___________
+[linkedin]: https://linkedin.com/in/mcarter02006
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
