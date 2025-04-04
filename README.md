@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/mcarter02006/">Maurice Carter</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/cmcarter38/">Maurice Carter</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 I'm passionate about cybersecurity, love to learn new things, and take on complex challenges through hands-on projects. These vulnerability management and security operations projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Check out what I did to enhance security operations and processes!
 
@@ -20,7 +20,7 @@ I'm passionate about cybersecurity, love to learn new things, and take on comple
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: https://linkedin.com/in/mcarter02006
+[linkedin]: https://linkedin.com/in/cmcarter38
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
