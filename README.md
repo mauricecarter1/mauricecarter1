@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/cmcarter38/">Maurice Carter</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity, love to learn new things, and take on complex challenges through hands-on projects. These vulnerability management and security operations projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Check out what I did to enhance security operations and processes!
+I'm passionate about cybersecurity, love to learn new things, and take on complex challenges through hands-on projects. My vulnerability management and security operations projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Check out what I did to enhance security operations and processes!
 
 
 ## ⚠️ Vulnerability Management Projects
