@@ -15,10 +15,13 @@
   Required Value: 1
 
 .NOTES
-  Author: Maurice Carter
-  Date: 2025-04-08
-  STIG ID: WN10-SO-000035
-  Reference: https://
+  Author:           Maurice Carter 
+  LinkedIn:         linkedin.com/in/cmcarter38/
+  GitHub:           github.com/mauricecarter1
+  Date Created:     2025-04-08
+  Last Modified:    2025-04-08
+  STIG ID:          WN10-SO-000035
+  
 #>
 
 # Ensure script is run as Administrator
