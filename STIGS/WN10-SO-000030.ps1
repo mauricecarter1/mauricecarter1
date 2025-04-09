@@ -47,4 +47,3 @@ catch {
     Write-Error "Failed to apply STIG WN10-SO-000030: $_"
 }
 
-#>
