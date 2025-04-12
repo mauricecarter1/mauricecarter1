@@ -14,7 +14,7 @@ I love learning and taking on new challenges while keeping good vibes with my te
 
 <hr/>
 
-## 🤳 Connect With Me on Linkedin!
+## Connect With Me On Linkedin!
 
 
 [![LinkedIn](https://drive.google.com/uc?export=view&id=13pby9M_CIHmwrEQwkYU5tXQHhA13Z-qd)](https://www.linkedin.com/in/cmcarter38/)
