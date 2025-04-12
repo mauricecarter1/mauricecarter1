@@ -10,7 +10,7 @@ I love learning and taking on new challenges while keeping good vibes with my te
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Activity by Employee)](https://github.com/mauricecarter1/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Employee Tor Activity)](https://github.com/mauricecarter1/threat-hunting-scenario-tor)**
 
 <hr/>
 
