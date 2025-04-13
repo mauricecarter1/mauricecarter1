@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-  Remediates STIG WN10-CC-000205
+  Remediates STIG ID: WN10-CC-000205
 
 .DESCRIPTION
   Sets the 'AllowTelemetry' registry value to 0 (Security) to restrict diagnostic data collection.
