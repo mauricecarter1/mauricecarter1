@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-  Remediates STIG ID: WN10-SO-000025
+  Remediates STIG ID: WN10-CC-000025
 
 .DESCRIPTION
   Sets 'DisableIPSourceRouting' to 2 to disable IP source routing.
@@ -12,7 +12,7 @@
   GitHub:           github.com/mauricecarter1
   Date Created:     2025-04-13
   Last Modified:    2025-04-13
-  STIG ID:          WN10-SO-000025
+  STIG ID:          WN10-CC-000025
 #>
 
 # Ensure the script is run with administrative privileges
@@ -35,8 +35,8 @@ if (-not (Test-Path $regPath)) {
 # Apply the setting
 try {
     Set-ItemProperty -Path $regPath -Name $regName -Value $regValue -Type DWord
-    Write-Output "Successfully applied WN10-SO-000025: DisableIPSourceRouting set to 2."
+    Write-Output "Successfully applied WN10-CC-000025: DisableIPSourceRouting set to 2."
 }
 catch {
-    Write-Error "Failed to apply WN10-SO-000025: $_"
+    Write-Error "Failed to apply WN10-CC-000025: $_"
 }
