@@ -11,6 +11,7 @@ I love learning and taking on new challenges while keeping good vibes with my te
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Employee Tor Activity)](https://github.com/mauricecarter1/threat-hunting-scenario-tor)**
+- **[Brute Force Detection](https://github.com/mauricecarter1/brute-force-detection)**
 
 <hr/>
 
