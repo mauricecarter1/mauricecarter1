@@ -15,7 +15,7 @@ I love learning and taking on new challenges while keeping good vibes with my te
 
 ## 🖥️ Identity Access Management Projects
 
-- **[Active Directory](https://github.com/mauricecarter1/vulnerability-management-program/tree/main)**
+- **[Active Directory](https://github.com/mauricecarter1/active-directory-lab)**
 
 <hr/>
 
