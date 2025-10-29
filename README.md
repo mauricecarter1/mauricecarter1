@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/cmcarter38/">Maurice Carter</a>'s IT Project Portfolio 🔐
 
-I completed these projects through a hands-on cyber range, working collaboratively in a live, SOC environment to simulate real-world cybersecurity operations. I tackled practical challenges using critical thinking under realistic conditions. System security is my passion 😁
+I completed these projects through a hands-on cyber range, working collaboratively in a live, SOC environment to simulate real-world cybersecurity operations. What I love most about IT is the need to continuously learn and grow. 😁
 
 
 ## ⚠️ Vulnerability Management Projects
