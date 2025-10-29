@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/cmcarter38/">Maurice Carter</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/cmcarter38/">Maurice Carter</a>'s IT Project Portfolio 🔐
 
 I completed these projects through a hands-on cyber range, working collaboratively in a live, SOC environment to simulate real-world cybersecurity operations. I tackled practical challenges using critical thinking under realistic conditions. System security is my passion 😁
 
